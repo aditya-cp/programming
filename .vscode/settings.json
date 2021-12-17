@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "set": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "valarray": "cpp",
+        "atomic": "cpp",
+        "cstdint": "cpp",
+        "iterator": "cpp",
+        "ios": "cpp",
+        "__bit_reference": "cpp",
+        "map": "cpp",
+        "__locale": "cpp"
+    },
+    "code-runner.executorMap" : { "cpp" : "cd $dir && g++ -std=c++17 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt && rm $dir$fileNameWithoutExt" }
+
+}
