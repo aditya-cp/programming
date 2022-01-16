@@ -18,7 +18,12 @@
         "ios": "cpp",
         "__bit_reference": "cpp",
         "map": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "limits": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
     },
     "code-runner.executorMap" : { "cpp" : "cd $dir && g++ -std=c++17 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt && rm $dir$fileNameWithoutExt" }
 
